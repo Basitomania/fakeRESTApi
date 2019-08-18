@@ -1,1 +1,76 @@
-
+[
+{
+"slug": "announcements",
+"name": "Announcements",
+"description": "This forum contains all official news and announcements regarding Rengorum",
+"posts_count": 63,
+"threads_count": 31,
+"last_activity": {
+"avatar": "http://api.adorable.io/avatar/200/rika",
+"thread_id": 1,
+"pinned": true,
+"thread_name": "Welcome to Rengorum :)",
+"naturaltime": "1 week, 3 days ago",
+"username": "rika"
+}
+},
+{
+"slug": "general",
+"name": "General",
+"description": "Anything and everything you want to talk about that doesn't fit into other forum",
+"posts_count": 19,
+"threads_count": 8,
+"last_activity": {
+"avatar": "http://api.adorable.io/avatar/200/fran",
+"thread_id": 64,
+"pinned": false,
+"thread_name": "hola que tal",
+"naturaltime": "4 weeks ago",
+"username": "fran"
+}
+},
+{
+"slug": "test",
+"name": "Test",
+"description": "Test forum that can be removed anytime",
+"posts_count": 11,
+"threads_count": 7,
+"last_activity": {
+"avatar": "http://api.adorable.io/avatar/200/xarala",
+"thread_id": 65,
+"pinned": false,
+"thread_name": "Python",
+"naturaltime": "4 weeks ago",
+"username": "xarala"
+}
+},
+{
+"slug": "web-development",
+"name": "Web Development",
+"description": "Where everyone learn and share about web development",
+"posts_count": 6,
+"threads_count": 4,
+"last_activity": {
+"avatar": "http://api.adorable.io/avatar/200/hihi",
+"thread_id": 32,
+"pinned": false,
+"thread_name": "test",
+"naturaltime": "1 month, 2 weeks ago",
+"username": "hihi"
+}
+},
+{
+"slug": "pintu",
+"name": "PINTU",
+"description": "Indonesian language for 'Door'. Welcome to this forum :)",
+"posts_count": 8,
+"threads_count": 3,
+"last_activity": {
+"avatar": "http://api.adorable.io/avatar/200/serhii",
+"thread_id": 4,
+"pinned": false,
+"thread_name": "Instruksi untuk Mahasiswa baru",
+"naturaltime": "1 month ago",
+"username": "serhii"
+}
+}]
